@@ -1,2 +1,2 @@
-# CurriculumV
+# CV
 CV
